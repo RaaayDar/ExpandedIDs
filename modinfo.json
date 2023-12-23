@@ -1,0 +1,10 @@
+{
+  "id": "RaaayDar.BiggerIDrange",
+  "name": "IDs expanded",
+  "version": "1.0.0",
+  "authors": "RaaayDar",
+  "description": "Allows IDs to spawn randomly between any possible number in a 32 int range.",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": true
+}
